@@ -1,0 +1,4 @@
+<map id="AEExperimentCondition" name="AEExperimentCondition">
+<area shape="rect" id="node2" href="$class_a_e_experiment_base.html" title="{AEExperimentBase\n|+ isServer\l+ isClient\l# mModel\l# mDATALOGGER\l|+ LinkNetworkState()\l+ LinkLogger()\l+ ExperimentWaiting()\l+ InitializeExperiment()\l+ StartExperiment()\l+ StopExperiment()\l+ PauseExperiment()\l+ Proceed()\l+ BuildScene()\l+ Next()\l+ Clean()\l+ GetCurrentTargetLocation()\l}" alt="" coords="5,131,196,413"/>
+<area shape="rect" id="node4" href="$interface_a_e_experiment_model_observers.html" title="{AEExperimentModelObservers\n||+ ExperimentModelChanged()\l+ LinkModel()\l}" alt="" coords="220,226,419,318"/>
+</map>

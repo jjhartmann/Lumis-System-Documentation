@@ -1,0 +1,5 @@
+<map id="AESpatialAugmentedRealityInteraction.UpdatePose" name="AESpatialAugmentedRealityInteraction.UpdatePose">
+<area shape="rect" id="node2" href="$class_a_e_auto_reset_event.html#a05a84f2592e1ca074a4f8bbf9e538c05" title="AEAutoResetEvent.Set" alt="" coords="249,5,406,32"/>
+<area shape="rect" id="node3" href="$class_a_e_auto_reset_event.html#a7346c1e6814c4f66b805c03fa6788c26" title="AEAutoResetEvent.Check" alt="" coords="240,56,415,83"/>
+<area shape="rect" id="node4" href="$class_a_e_auto_reset_event.html#ad585ca8ca9ef1cf8825e2560c14c75b3" title="AEAutoResetEvent.Reset" alt="" coords="242,107,413,133"/>
+</map>

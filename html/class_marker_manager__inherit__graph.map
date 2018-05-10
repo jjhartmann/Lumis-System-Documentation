@@ -1,0 +1,5 @@
+<map id="MarkerManager" name="MarkerManager">
+<area shape="rect" id="node3" href="$class_marker_manager_kinect.html" title="{MarkerManagerKinect\n|+ DebugEnabled\l+ alphaFilter\l+ TextGameObject\l|+ RequestAssignment()\l+ RemoveAssignment()\l+ GetPosition()\l+ GetRotation()\l+ IsAssigned()\l+ CreateConnection()\l+ IsConnectedToService()\l+ UpdateState()\l+ GetDetectedObjects()\l+ SetOriginPoint()\l+ SetDummyObject()\l+ Initialize()\l}" alt="" coords="5,454,176,722"/>
+<area shape="rect" id="node4" href="$class_marker_manager_vicon.html" title="{MarkerManagerVicon\n|+ DebugEnabled\l+ HostNameAndPort\l+ EnableHeadTracking\l+ HeadObjectPrefab\l+ EnableMeta2\l+ MetaCameraRigPrefab\l+ EnableShoulderTracking\l+ ShoulderObjectPrefab\l|+ Initialize()\l+ CreateConnection()\l+ IsConnectedToService()\l+ RequestAssignment()\l+ RemoveAssignment()\l+ GetPosition()\l+ GetRotation()\l+ IsAssigned()\l+ UpdateState()\l+ GetDetectedObjects()\l+ SetOriginPoint()\l+ SetDummyObject()\l}" alt="" coords="201,417,375,759"/>
+<area shape="rect" id="node2" href="$class_scriptable_object.html" title="{ScriptableObject\n||}" alt="" coords="130,5,249,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MarkerManagerVicon" name="MarkerManagerVicon">
+<area shape="rect" id="node2" href="$class_marker_manager.html" title="{MarkerManager\n||+ RequestAssignment()\l+ RemoveAssignment()\l+ GetPosition()\l+ GetRotation()\l+ IsAssigned()\l+ CreateConnection()\l+ IsConnectedToService()\l+ UpdateState()\l+ GetDetectedObjects()\l+ SetOriginPoint()\l+ SetDummyObject()\l+ Initialize()\l}" alt="" coords="7,131,178,369"/>
+<area shape="rect" id="node3" href="$class_scriptable_object.html" title="{ScriptableObject\n||}" alt="" coords="33,5,152,83"/>
+</map>

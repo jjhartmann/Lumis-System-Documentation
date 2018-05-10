@@ -1,0 +1,5 @@
+<map id="AndroidEverywhere.Archiver.LOG_T_INTERACTIONERROR_DATA" name="AndroidEverywhere.Archiver.LOG_T_INTERACTIONERROR_DATA">
+<area shape="rect" id="node2" href="$class_android_everywhere_1_1_archiver_1_1_l_o_g___d_a_t_a___b_a_s_e.html" title="{LOG_DATA_BASE\n||+ OnBeforeSerialize()\l+ OnAfterDeserialize()\l}" alt="" coords="215,380,366,472"/>
+<area shape="rect" id="node3" href="$class_i_serialization_callback_receiver.html" title="{ISerializationCallbackReceiver\n||}" alt="" coords="5,5,200,83"/>
+<area shape="rect" id="node6" href="$class_android_everywhere_1_1_interaction_behaviour_1_1_interaction_payload_events.html" title="{AndroidEverywhere.Interaction\lBehaviour.InteractionPayloadEvents\n|+ _isContentGameObject\l+ _isContentID\l+ Scale\l+ ContentID\l+ Normal\l+ Position\l+ Rotation\l+ PointOnScreen\l+ ResourceID\l+ ContentGameObject\l+ Message\l+ RotationDelta\l+ ScaleDelta\l|}" alt="" coords="653,292,881,560"/>
+</map>

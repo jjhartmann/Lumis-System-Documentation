@@ -1,0 +1,3 @@
+<map id="AEPhoneObjectPanelUI_Tangible" name="AEPhoneObjectPanelUI_Tangible">
+<area shape="rect" id="node2" href="$class_a_e_phone_object_panel_u_i___base.html" title="{AEPhoneObjectPanelUI_Base\n|+ selectionRay\l+ OnObjectSelection\l+ OnObjectRotate\l+ OnObjectScaling\l+ OnObjectTranslation\l|+ Base_OnObjectSelectionDelegate()\l+ Base_OnObjectRotationDelegate()\l+ Base_OnObjectScalingDelgate()\l+ Base_OnObjectTranslation\lDelegate()\l+ GetPanelType()\l}" alt="" coords="5,131,244,340"/>
+</map>

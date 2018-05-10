@@ -1,0 +1,7 @@
+<map id="MarkerGlobalManager" name="MarkerGlobalManager">
+<area shape="rect" id="node2" href="$class_network_behaviour.html" title="{NetworkBehaviour\n||}" alt="" coords="5,558,131,635"/>
+<area shape="rect" id="node3" href="$class_marker_manager_kinect.html" title="{MarkerManagerKinect\n||+ RequestAssignment()\l+ RemoveAssignment()\l+ GetPosition()\l+ GetRotation()\l+ IsAssigned()\l+ CreateConnection()\l+ IsConnectedToService()\l+ UpdateState()\l+ GetDetectedObjects()\l+ SetOriginPoint()\l+ SetDummyObject()\l+ Initialize()\l}" alt="" coords="905,477,1076,716"/>
+<area shape="rect" id="node4" href="$class_marker_manager.html" title="{MarkerManager\n||+ RequestAssignment()\l+ RemoveAssignment()\l+ GetPosition()\l+ GetRotation()\l+ IsAssigned()\l+ CreateConnection()\l+ IsConnectedToService()\l+ UpdateState()\l+ GetDetectedObjects()\l+ SetOriginPoint()\l+ SetDummyObject()\l+ Initialize()\l}" alt="" coords="1083,132,1253,371"/>
+<area shape="rect" id="node9" href="$class_marker_manager_vicon.html" title="{MarkerManagerVicon\n||+ Initialize()\l+ CreateConnection()\l+ IsConnectedToService()\l+ RequestAssignment()\l+ RemoveAssignment()\l+ GetPosition()\l+ GetRotation()\l+ IsAssigned()\l+ UpdateState()\l+ GetDetectedObjects()\l+ SetOriginPoint()\l+ SetDummyObject()\l}" alt="" coords="463,477,633,716"/>
+<area shape="rect" id="node5" href="$class_scriptable_object.html" title="{ScriptableObject\n||}" alt="" coords="1109,5,1227,83"/>
+</map>

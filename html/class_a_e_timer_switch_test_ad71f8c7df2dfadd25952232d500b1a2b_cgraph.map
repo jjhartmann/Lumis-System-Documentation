@@ -1,0 +1,5 @@
+<map id="AETimerSwitchTest.AETimerSwitchTestSimplePasses" name="AETimerSwitchTest.AETimerSwitchTestSimplePasses">
+<area shape="rect" id="node2" href="$class_a_e_auto_timer_switch.html#a37eb4c8a6558570523b085fe5d89c5b6" title="AEAutoTimerSwitch.Set" alt="" coords="259,5,422,32"/>
+<area shape="rect" id="node3" href="$class_a_e_auto_timer_switch.html#a66c66a2aacd74cc8e98a0f0ec64bcaff" title="AEAutoTimerSwitch.WaitOne" alt="" coords="244,56,437,83"/>
+<area shape="rect" id="node4" href="$class_a_e_auto_timer_switch.html#a9b55e544b8b91ed6ab77a7ef67eb1791" title="AEAutoTimerSwitch.Check" alt="" coords="251,107,430,133"/>
+</map>

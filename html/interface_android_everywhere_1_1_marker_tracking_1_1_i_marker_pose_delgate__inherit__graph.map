@@ -1,0 +1,6 @@
+<map id="AndroidEverywhere.MarkerTracking.IMarkerPoseDelgate" name="AndroidEverywhere.MarkerTracking.IMarkerPoseDelgate">
+<area shape="rect" id="node2" href="$class_a_e_head_object_behaviour.html" title="{AEHeadObjectBehaviour\n|+ HeadObjectId\l+ HeadGameObjectPrefab\l+ BodyGameObjectPrefab\l|+ AddHeadMountedDisplay()\l+ UpdatePose()\l+ GetTrackingCategory()\l}" alt="" coords="5,197,193,333"/>
+<area shape="rect" id="node3" href="$class_a_e_shoulder_object_behaviour.html" title="{AEShoulderObjectBehaviour\n|+ ShoulderObjectID\l+ LeftSholderObject\l+ RightSholderObject\l|+ UpdatePose()\l+ GetTrackingCategory()\l}" alt="" coords="217,204,403,325"/>
+<area shape="rect" id="node4" href="$class_a_e_spatial_augmented_reality_interaction.html" title="{AESpatialAugmentedReality\lInteraction\n|+ DistanceThreshold\l+ MaintainModeThreshold\l+ RandomForestFilterThreshold\l+ HeadPositionAdjustment\l+ BypassRandomForestExtend\l+ BypassRandomForestNear\l+ BypassFiltering\l+ EnableDebug\l|+ GetTrackingCategory()\l+ UpdatePose()\l}" alt="" coords="427,160,631,369"/>
+<area shape="rect" id="node5" href="$class_phone_object_behaviour.html" title="{PhoneObjectBehaviour\n|+ DebugEnabled\l+ PhoneObjectId\l+ MainUICanvas\l+ ErrorFeedback\l+ ErrorColor\l|+ UpdatePose()\l+ GetTrackingCategory()\l}" alt="" coords="655,189,819,340"/>
+</map>

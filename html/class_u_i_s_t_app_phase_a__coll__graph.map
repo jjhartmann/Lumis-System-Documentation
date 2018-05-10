@@ -1,0 +1,5 @@
+<map id="UISTAppPhaseA" name="UISTAppPhaseA">
+<area shape="rect" id="node2" href="$class_u_i_s_t_app_phase_base.html" title="{UISTAppPhaseBase\n||+ Base_OnExperimentTrigger\lDelegate()\l+ SetCurrentTrial()\l+ GetPhaseType()\l}" alt="" coords="635,572,828,693"/>
+<area shape="rect" id="node3" href="$class_a_e_phone_object_panel_u_i___base.html" title="{AEPhoneObjectPanelUI_Base\n||+ Base_OnObjectSelectionDelegate()\l+ Base_OnObjectRotationDelegate()\l+ Base_OnObjectScalingDelgate()\l+ Base_OnObjectTranslation\lDelegate()\l+ GetPanelType()\l}" alt="" coords="377,359,616,509"/>
+<area shape="rect" id="node8" href="$class_selection_ray.html" title="{SelectionRay\n||+ SetLogger()\l+ ProcessSelectionRay()\l+ GetHitObject()\l+ GetHitObjects()\l}" alt="" coords="99,175,265,296"/>
+</map>

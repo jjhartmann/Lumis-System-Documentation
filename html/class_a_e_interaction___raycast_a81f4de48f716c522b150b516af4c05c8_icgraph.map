@@ -1,0 +1,4 @@
+<map id="AEInteraction_Raycast.GetInteractionType" name="AEInteraction_Raycast.GetInteractionType">
+<area shape="rect" id="node2" href="$class_a_e_interaction___raycast.html#afffa293bd63f437f82a34b7a5ef74ffa" title="AEInteraction_Raycast.Callback\l_OnObjectPlacement" alt="" coords="233,5,443,47"/>
+<area shape="rect" id="node3" href="$class_a_e_interaction___raycast.html#a52a07384706fdfb9242022a48173a123" title="AEInteraction_Raycast.Callback\l_OnObjectSelection" alt="" coords="233,71,443,112"/>
+</map>

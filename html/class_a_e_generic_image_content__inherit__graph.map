@@ -1,0 +1,4 @@
+<map id="AEGenericImageContent" name="AEGenericImageContent">
+<area shape="rect" id="node2" href="$class_a_e_content_object_base.html" title="{AEContentObjectBase\n|+ ParentNetID\l+ ContentID\l+ TypeOfContent\l+ ImageIcon\l+ ContentName\l+ IsContentViewable\l# mIsSelectable\l# mCustomeContentUIObject\l# mCustomContentUIBase\l# mContentManager\l# mOnClientStartEvent\l|+ AddCustomUI()\l+ HasCustomUI()\l+ GetCustomUIBase()\l+ GetCustomUIObject()\l+ InitializeCustomUI()\l+ SelectObject()\l+ UnSelectObject()\l+ GetFriendlyName()\l+ SetSelectable()\l+ IsSelectable()\l+ GetImageIcon()\l+ GetContentName()\l+ GetWidth()\l+ GetHeight()\l+ OnStartClient()\l# Awake()\l# Start()\l# GenerateQuad()\l}" alt="" coords="5,131,196,604"/>
+<area shape="rect" id="node3" href="$class_network_behaviour.html" title="{NetworkBehaviour\n||}" alt="" coords="38,5,163,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AEApplication_Photos.Callback_OnObjectPlacement" name="AEApplication_Photos.Callback_OnObjectPlacement">
+<area shape="rect" id="node2" href="$class_selection_ray.html#ad5dbf1aa60391ffcba3f50f504c66f44" title="SelectionRay.GetHitObjects" alt="" coords="278,5,463,32"/>
+<area shape="rect" id="node3" href="$class_a_e_content_manager.html#a68f9e546e74b5ebe368707a71b5942e4" title="AEContentManager.CheckContent\lValidity" alt="" coords="260,57,481,98"/>
+<area shape="rect" id="node4" href="$class_a_e_application___photos.html#a95dcb2cc4fa652d4e7568fa4a2c875f0" title="AEApplication_Photos.Get\lInteractionType" alt="" coords="282,122,459,163"/>
+</map>

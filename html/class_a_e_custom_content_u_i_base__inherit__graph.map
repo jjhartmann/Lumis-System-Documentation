@@ -1,0 +1,5 @@
+<map id="AECustomContentUIBase" name="AECustomContentUIBase">
+<area shape="rect" id="node3" href="$class_maps_widget_spatial_focus_view.html" title="{MapsWidgetSpatialFocusView\n|+ StartField\l+ DestinationField\l+ GoButton\l|+ IntilizeUI()\l+ SetUtilityAPI()\l}" alt="" coords="5,337,204,458"/>
+<area shape="rect" id="node4" href="$class_photo_custom_content_focus_view.html" title="{PhotoCustomContentFocusView\n|+ PreviewImage\l+ TitleText\l+ BrightnesSlider\l|+ IntilizeUI()\l+ SetUtilityAPI()\l}" alt="" coords="229,337,439,458"/>
+<area shape="rect" id="node5" href="$class_weather_banner_spatial_focus_view.html" title="{WeatherBannerSpatialFocusView\n|+ CitySearchField\l+ ExtendWidthSlider\l+ ExtendHeightSlider\l+ TodayButton\l+ TodayPanel\l+ IconSwitch\l+ TemperatureSwitch\l+ AnimateSwitch\l+ ThreeDayButton\l+ ThreeDayPanel\l|+ IntilizeUI()\l+ SetUtilityAPI()\l}" alt="" coords="463,285,679,509"/>
+</map>

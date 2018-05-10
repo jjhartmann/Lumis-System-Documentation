@@ -1,0 +1,3 @@
+<map id="AEDefaultAppLauncher" name="AEDefaultAppLauncher">
+<area shape="rect" id="node2" href="$class_a_e_app_launcher_base.html" title="{AEAppLauncherBase\n|+ isServer\l+ isLocalPlayer\l+ DelegateMethod_OnApplication\lLaunch\l# appMainUIBase\l# mContentManager\l# mDATALOGGER\l|+ ApplicationLauncher\l_OnApplicationLaunch()\l+ LoadApplications()\l+ GetInteractionType()\l+ SetVisualGUI()\l+ SetContentManager()\l+ SetLogger()\l# CALLBACK_OnApplicationAction()\l}" alt="" coords="5,131,240,399"/>
+</map>

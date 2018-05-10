@@ -1,0 +1,4 @@
+<map id="MapsGoogleAPI" name="MapsGoogleAPI">
+<area shape="rect" id="node4" href="$class_google_map_location.html" title="{GoogleMapLocation\n||}" alt="" coords="285,160,423,237"/>
+<area shape="rect" id="node5" href="$class_google_map_path.html" title="{GoogleMapPath\n||}" alt="" coords="537,160,651,237"/>
+</map>

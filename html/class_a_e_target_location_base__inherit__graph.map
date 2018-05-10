@@ -1,0 +1,6 @@
+<map id="AETargetLocationBase" name="AETargetLocationBase">
+<area shape="rect" id="node3" href="$class_a_e_target_grounding_location.html" title="{AETargetGroundingLocation\n||+ DestoryTarget()\l+ GetTargetObject()\l+ GetContentContainer()\l+ SimulateSelection()\l}" alt="" coords="5,615,189,737"/>
+<area shape="rect" id="node4" href="$class_a_e_target_location.html" title="{AETargetLocation\n|+ PuslatingRate\l|+ DestoryTarget()\l+ GetTargetObject()\l+ GetContentContainer()\l+ SimulateSelection()\l}" alt="" coords="213,615,376,737"/>
+<area shape="rect" id="node5" href="$class_a_e_target_square_location.html" title="{AETargetSquareLocation\n|+ PuslatingRate\l+ QuadScale\l|+ DestoryTarget()\l+ GetTargetObject()\l+ GetContentContainer()\l+ SimulateSelection()\l}" alt="" coords="401,608,567,744"/>
+<area shape="rect" id="node6" href="$class_a_e_target_trigger___u_i_s_t.html" title="{AETargetTrigger_UIST\n|+ PuslatingRate\l|+ DestoryTarget()\l+ GetTargetObject()\l+ GetContentContainer()\l+ SimulateSelection()\l}" alt="" coords="592,615,755,737"/>
+</map>

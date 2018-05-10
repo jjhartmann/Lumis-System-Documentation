@@ -1,0 +1,5 @@
+<map id="AESpatialAugmentedRealityGestureController" name="AESpatialAugmentedRealityGestureController">
+<area shape="rect" id="node2" href="$class_a_e_s_a_r_overlay_base.html" title="{AESAROverlayBase\n|# mPhoneObjectUtility\l|+ SetActiveState()\l+ InitializeStart()\l+ SetUtilityAPI()\l}" alt="" coords="74,153,226,259"/>
+<area shape="rect" id="node4" href="$interface_a_e_i_phone_object_network_utility_reciever.html" title="{AEIPhoneObjectNetworkUtility\lReciever\n||+ SetUtilityAPI()\l}" alt="" coords="140,5,339,97"/>
+<area shape="rect" id="node5" href="$interface_a_e_i_s_a_r_model_observer.html" title="{AEISARModelObserver\n||+ SARModeStart()\l+ SARModeStop()\l+ ModelUpdate()\l+ AddModel()\l}" alt="" coords="251,145,407,267"/>
+</map>

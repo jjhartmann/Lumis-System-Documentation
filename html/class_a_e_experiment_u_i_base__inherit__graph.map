@@ -1,0 +1,5 @@
+<map id="AEExperimentUIBase" name="AEExperimentUIBase">
+<area shape="rect" id="node4" href="$class_a_e_experiment_u_i_start.html" title="{AEExperimentUIStart\n||+ UICALLBACK_OnParticipant\lNameChanged()\l+ UICALLBACK_OnParticipant\lIDChanged()\l+ UICALLBACK_OnDateOfBirth\lChanged()\l+ UICALLBACK_OnParticipant\lEmailChanged()\l+ UICALLBACK_OnInitiateExperiment\lButtonClicked()\l+ ExperimentModelChanged()\l}" alt="" coords="5,300,248,524"/>
+<area shape="rect" id="node5" href="$class_a_e_experiment_u_i_statistics.html" title="{AEExperimentUIStatistics\n|+ TextUIElements\l|+ UICALLBACK_OnSkipWaitButton\lClicked()\l+ ExperimentModelChanged()\l}" alt="" coords="272,359,501,465"/>
+<area shape="rect" id="node3" href="$interface_a_e_experiment_model_observers.html" title="{AEExperimentModelObservers\n||+ ExperimentModelChanged()\l+ LinkModel()\l}" alt="" coords="246,5,445,97"/>
+</map>

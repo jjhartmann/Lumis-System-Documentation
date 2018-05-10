@@ -1,0 +1,8 @@
+<map id="PhotoModel.AddObserver" name="PhotoModel.AddObserver">
+<area shape="rect" id="node2" href="$class_photo_app_u_i.html#a280dcae9f72c6d5e9a81f9ee249a5303" title="PhotoAppUI.AddModel" alt="" coords="255,5,409,32"/>
+<area shape="rect" id="node3" href="$class_photo_content_view.html#af59cbbba12f3fdace9b0aeccdc10b16c" title="PhotoContentView.AddModel" alt="" coords="237,56,427,83"/>
+<area shape="rect" id="node4" href="$class_photo_detail_content_view.html#a8ba65efef5ffd69163f6fbe68661f350" title="PhotoDetailContentView.Add\lModel" alt="" coords="237,107,427,149"/>
+<area shape="rect" id="node5" href="$class_photo_detail_view.html#aa4f80dc1b2356a481024ccffcc6dea8d" title="PhotoDetailView.AddModel" alt="" coords="243,173,421,200"/>
+<area shape="rect" id="node6" href="$class_photo_r_t_s_touch_gesture.html#a29b126653e82dc1c599c6f88eff3d291" title="PhotoRTSTouchGesture.Add\lModel" alt="" coords="237,225,427,266"/>
+<area shape="rect" id="node7" href="$class_photo_s_a_r_content_view.html#afd9d23a761c402a78ee30aa2202aa54c" title="PhotoSARContentView.AddModel" alt="" coords="223,291,441,317"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="UISTAppPhaseBase" name="UISTAppPhaseBase">
+<area shape="rect" id="node4" href="$class_u_i_s_t_app_phase_a.html" title="{UISTAppPhaseA\n||+ GetPhaseType()\l}" alt="" coords="5,572,133,649"/>
+<area shape="rect" id="node5" href="$class_u_i_s_t_app_phase_b.html" title="{UISTAppPhaseB\n||+ GetPhaseType()\l}" alt="" coords="157,572,285,649"/>
+<area shape="rect" id="node6" href="$class_u_i_s_t_app_phase_c.html" title="{UISTAppPhaseC\n|+ ClickedColor\l|+ GetPhaseType()\l}" alt="" coords="309,572,437,649"/>
+<area shape="rect" id="node2" href="$class_a_e_phone_object_panel_u_i___base.html" title="{AEPhoneObjectPanelUI_Base\n|+ selectionRay\l+ OnObjectSelection\l+ OnObjectRotate\l+ OnObjectScaling\l+ OnObjectTranslation\l|+ Base_OnObjectSelectionDelegate()\l+ Base_OnObjectRotationDelegate()\l+ Base_OnObjectScalingDelgate()\l+ Base_OnObjectTranslation\lDelegate()\l+ GetPanelType()\l}" alt="" coords="102,131,341,340"/>
+</map>

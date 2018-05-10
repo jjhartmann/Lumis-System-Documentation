@@ -1,0 +1,4 @@
+<map id="AEExperimentUIBase" name="AEExperimentUIBase">
+<area shape="rect" id="node3" href="$interface_a_e_experiment_model_observers.html" title="{AEExperimentModelObservers\n||+ ExperimentModelChanged()\l+ LinkModel()\l}" alt="" coords="140,196,339,288"/>
+<area shape="rect" id="node4" href="$class_a_e_experiment_state_model.html" title="{AEExperimentStateModel\n|+ Instance\l+ Condition\l+ Section\l+ Block\l+ Trial\l+ Target\l+ ConditionMaxVal\l+ SectionMaxVal\l+ BlockMaxVal\l+ TrialMaxVal\l+ TargetMaxVal\l+ ParticipantID\l+ MParticipantName\l+ MParticipantEmail\l+ MParticipantDateOfBirth\l+ ExperimentState\l+ NumberofSimultaneousParticipants\l+ ExperimentClientState\l+ RandomSeed\l+ CurrentModelState\l+ CurrentConditionType\l|+ Increment()\l+ GetNextModelState()\l+ GetUniqueSeed()\l+ AddObserver()\l+ AddObserver()\l+ AddObserverAllRecursiveAndLink()\l+ Remove()\l+ Remove()\l}" alt="" coords="363,5,601,479"/>
+</map>

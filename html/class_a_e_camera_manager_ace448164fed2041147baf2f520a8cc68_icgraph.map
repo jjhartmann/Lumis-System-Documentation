@@ -1,0 +1,5 @@
+<map id="AECameraManager.ResetAmountWorked" name="AECameraManager.ResetAmountWorked">
+<area shape="rect" id="node2" href="$class_a_e_camera_manager.html#aeb7339274405febac79c9ad910be2f85" title="AECameraManager.AddCamera" alt="" coords="280,5,487,32"/>
+<area shape="rect" id="node3" href="$class_a_e_camera_manager.html#a46b5c0c0ef65d7e089ca585262cb8182" title="AECameraManager.AddObject\lToTrack" alt="" coords="283,57,483,98"/>
+<area shape="rect" id="node4" href="$class_a_e_camera_manager.html#a95742c6083ba0efee4db9b93e7058a85" title="AECameraManager.RemoveObject\lToTrack" alt="" coords="272,122,495,163"/>
+</map>

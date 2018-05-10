@@ -1,0 +1,4 @@
+<map id="AEPhoneObjectPanelUI_Viewport" name="AEPhoneObjectPanelUI_Viewport">
+<area shape="rect" id="node2" href="$class_a_e_phone_object_panel_u_i___base.html" title="{AEPhoneObjectPanelUI_Base\n||+ Base_OnObjectSelectionDelegate()\l+ Base_OnObjectRotationDelegate()\l+ Base_OnObjectScalingDelgate()\l+ Base_OnObjectTranslation\lDelegate()\l+ GetPanelType()\l}" alt="" coords="377,359,616,509"/>
+<area shape="rect" id="node7" href="$class_selection_ray.html" title="{SelectionRay\n||+ SetLogger()\l+ ProcessSelectionRay()\l+ GetHitObject()\l+ GetHitObjects()\l}" alt="" coords="99,175,265,296"/>
+</map>

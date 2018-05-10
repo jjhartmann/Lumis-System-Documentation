@@ -1,0 +1,5 @@
+<map id="AETargetSquareLocationEditor.OnInspectorGUI" name="AETargetSquareLocationEditor.OnInspectorGUI">
+<area shape="rect" id="node2" href="$class_a_e_target_square_location.html#a2097f0691f627b6174c2e2ec8db452c2" title="AETargetSquareLocation.Simulate\lSelection" alt="" coords="257,5,479,47"/>
+<area shape="rect" id="node4" href="$class_a_e_target_location_base.html#a7c6b4e5b206a3e191ed9b65f6a2a2209" title="AETargetLocationBase.Init\lSelectionPrefabAndSpawn" alt="" coords="280,71,456,112"/>
+<area shape="rect" id="node3" href="$class_a_e_content_manager.html#af3c10abcf8fb09c7ea9a175baf366d64" title="AEContentManager.SelectObject" alt="" coords="527,13,741,39"/>
+</map>

@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['sar_5ffocus_5fcontext_5fcontrol',['SAR_FOCUS_CONTEXT_CONTROL',['../namespace_android_everywhere.html#a0bdf5f484ffe245db129975035f49dafa6713adbc4d2975de7cee92fde98f6413',1,'AndroidEverywhere']]],
+  ['sar_5foverlay_5fgestures',['SAR_OVERLAY_GESTURES',['../namespace_android_everywhere.html#a0bdf5f484ffe245db129975035f49dafa2af93c39bd3daa2871a61a95524afd2e',1,'AndroidEverywhere']]],
+  ['sar_5funknown',['SAR_UNKNOWN',['../namespace_android_everywhere.html#a0bdf5f484ffe245db129975035f49dafaf8032e3534e9e543196b9a312226bdf1',1,'AndroidEverywhere']]],
+  ['sarmode_5fextend',['SARMODE_EXTEND',['../_i_s_a_r_mode_gesture_delegate_8cs.html#acaa83d0f883d63ce3aff0705271d94c4a03a809e3eb9db68ae832c422fdacff99',1,'ISARModeGestureDelegate.cs']]],
+  ['sarmode_5ftap',['SARMODE_TAP',['../_i_s_a_r_mode_gesture_delegate_8cs.html#acaa83d0f883d63ce3aff0705271d94c4a6029c548e68fc64ad84591befb5bd3e2',1,'ISARModeGestureDelegate.cs']]],
+  ['sarstate_5fcontext',['SARSTATE_CONTEXT',['../class_a_e_s_a_r_model.html#a56fbf577a3fa071494d7ead648e278cbae87a64775abab2ff12c16c19dc55d66f',1,'AESARModel']]],
+  ['sarstate_5fnothing',['SARSTATE_NOTHING',['../class_a_e_s_a_r_model.html#a56fbf577a3fa071494d7ead648e278cba4ee7b76866aee7c00fd1ca8df4eb900e',1,'AESARModel']]],
+  ['sarstate_5frts',['SARSTATE_RTS',['../class_a_e_s_a_r_model.html#a56fbf577a3fa071494d7ead648e278cba9eb0ada3e929e5ab85c4c4df527dd59e',1,'AESARModel']]],
+  ['sarstate_5frts_5fcapture',['SARSTATE_RTS_CAPTURE',['../class_a_e_s_a_r_model.html#a56fbf577a3fa071494d7ead648e278cbadf865aeb25b43431cb241ae3ffa8848f',1,'AESARModel']]],
+  ['satellite',['Satellite',['../class_maps_google_a_p_i.html#aa081069e510866d9c27a706c1169a357ac2b5e73361a4bf9d26a73413d0abee5e',1,'MapsGoogleAPI']]],
+  ['section_5fcomplete_5focculsion',['SECTION_COMPLETE_OCCULSION',['../class_a_e_experiment_section.html#a1d5ccec8861c266639508904b399f652ab3add7099b7559982b6350f8e5ff4927',1,'AEExperimentSection']]],
+  ['section_5fpartial_5focculsion',['SECTION_PARTIAL_OCCULSION',['../class_a_e_experiment_section.html#a1d5ccec8861c266639508904b399f652a8b7b935e7d061c5771562a1d10adc796',1,'AEExperimentSection']]],
+  ['section_5fpractice',['SECTION_PRACTICE',['../class_a_e_experiment_section.html#a1d5ccec8861c266639508904b399f652a728d84bdde2c4b35f8cc13242430fe5a',1,'AEExperimentSection']]],
+  ['section_5fvisibile',['SECTION_VISIBILE',['../class_a_e_experiment_section.html#a1d5ccec8861c266639508904b399f652ae376f9060a2ff28c1f0a8d7a010a481d',1,'AEExperimentSection']]],
+  ['singletapevent',['SingleTapEvent',['../namespace_a_e_environment.html#af8f06fe2175e9d751378e6a8a9d0db25aed875da5860fc5d9ec9dc5b61e077d5b',1,'AEEnvironment']]],
+  ['small',['Small',['../class_google_map_marker.html#ada32a2c13680af13d4362c901983a2a1a2660064e68655415da2628c2ae2f7592',1,'GoogleMapMarker']]],
+  ['state_5fblock',['STATE_BLOCK',['../namespace_android_everywhere_1_1_experiment.html#aa5b4861a1cebb57cd3ff24f0e9de75fbab0f88d918ed85e6406456f2d439f9ab1',1,'AndroidEverywhere::Experiment']]],
+  ['state_5fcondition',['STATE_CONDITION',['../namespace_android_everywhere_1_1_experiment.html#aa5b4861a1cebb57cd3ff24f0e9de75fba5a0ef6782f5640fc78bfed728ef3b16e',1,'AndroidEverywhere::Experiment']]],
+  ['state_5ffinished',['STATE_FINISHED',['../namespace_android_everywhere_1_1_experiment.html#aa5b4861a1cebb57cd3ff24f0e9de75fbae635013d2bea9998a15a70b8c199d74e',1,'AndroidEverywhere::Experiment']]],
+  ['state_5fother',['STATE_OTHER',['../namespace_android_everywhere_1_1_experiment.html#aa5b4861a1cebb57cd3ff24f0e9de75fba14ca4979720a1052d88b3685992c9efb',1,'AndroidEverywhere::Experiment']]],
+  ['state_5fsection',['STATE_SECTION',['../namespace_android_everywhere_1_1_experiment.html#aa5b4861a1cebb57cd3ff24f0e9de75fba3a81edd1461a6efa721dacd2cd065729',1,'AndroidEverywhere::Experiment']]],
+  ['state_5ftarget',['STATE_TARGET',['../namespace_android_everywhere_1_1_experiment.html#aa5b4861a1cebb57cd3ff24f0e9de75fbad6f627726fa7142a3596523398b3d977',1,'AndroidEverywhere::Experiment']]],
+  ['state_5ftrial',['STATE_TRIAL',['../namespace_android_everywhere_1_1_experiment.html#aa5b4861a1cebb57cd3ff24f0e9de75fbafb289f6679f6cc475c2a7a2fdcc7d147',1,'AndroidEverywhere::Experiment']]],
+  ['system_5fsar_5fmanager',['SYSTEM_SAR_MANAGER',['../namespace_android_everywhere.html#acd7c7c8e9ffe6f826b0d210ab793a7dda21a54e77f591c7fe33c1ba2e4c8e7426',1,'AndroidEverywhere']]]
+];

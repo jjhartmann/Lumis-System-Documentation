@@ -1,0 +1,4 @@
+<map id="PhotoModel.OnObjectPlacement" name="PhotoModel.OnObjectPlacement">
+<area shape="rect" id="node2" href="$class_photo_detail_content_view.html#ad50a8d4250466a6440698fd8433b1620" title="PhotoDetailContentView.Callback\l_OnPushGesture" alt="" coords="265,5,481,47"/>
+<area shape="rect" id="node3" href="$class_photo_s_a_r_content_view.html#a76940a2ae106eb8dda5e76b01c8e9a7b" title="PhotoSARContentView.Callback\l_OnPushGesture" alt="" coords="268,71,479,112"/>
+</map>

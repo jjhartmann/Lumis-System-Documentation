@@ -1,0 +1,6 @@
+<map id="AEAppLauncherBase.LoadApplications" name="AEAppLauncherBase.LoadApplications">
+<area shape="rect" id="node2" href="$class_a_e_app_launcher_base.html#a94d30ca53403bf540645a8e1e91c393d" title="AEAppLauncherBase.CALLBACK\l_OnApplicationAction" alt="" coords="303,5,521,47"/>
+<area shape="rect" id="node3" href="$class_a_e_app_launcher_u_i_base.html#acbe3dee4b5a02cc3fce44df4a2e92c6e" title="AEAppLauncherUIBase.Load\lApplications" alt="" coords="317,71,507,112"/>
+<area shape="rect" id="node4" href="$class_a_e_app_icon_display_view.html#a65a49c53cca70a98ea09c4041c27e1e7" title="Set text for content display view " alt="" coords="581,49,788,75"/>
+<area shape="rect" id="node5" href="$class_a_e_app_launcher_u_i_base.html#a54370cfe2c18c083c538f1745da14e0b" title="AEAppLauncherUIBase.CALLBACK\l_OnApplicationAction" alt="" coords="569,100,800,141"/>
+</map>

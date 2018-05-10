@@ -1,0 +1,4 @@
+<map id="MarkerManagerKinect" name="MarkerManagerKinect">
+<area shape="rect" id="node2" href="$class_marker_manager.html" title="{MarkerManager\n||+ RequestAssignment()\l+ RemoveAssignment()\l+ GetPosition()\l+ GetRotation()\l+ IsAssigned()\l+ CreateConnection()\l+ IsConnectedToService()\l+ UpdateState()\l+ GetDetectedObjects()\l+ SetOriginPoint()\l+ SetDummyObject()\l+ Initialize()\l}" alt="" coords="5,131,176,369"/>
+<area shape="rect" id="node3" href="$class_scriptable_object.html" title="{ScriptableObject\n||}" alt="" coords="31,5,150,83"/>
+</map>

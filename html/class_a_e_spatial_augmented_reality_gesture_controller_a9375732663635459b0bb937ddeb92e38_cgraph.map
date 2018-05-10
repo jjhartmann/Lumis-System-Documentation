@@ -1,0 +1,4 @@
+<map id="AESpatialAugmentedRealityGestureController.SARModeStop" name="AESpatialAugmentedRealityGestureController.SARModeStop">
+<area shape="rect" id="node2" href="$class_a_e_auto_reset_event.html#a19fb4d76dcbf63c4deb83d1912d15cce" title="AEAutoResetEvent.WaitOne" alt="" coords="267,5,455,32"/>
+<area shape="rect" id="node3" href="$class_a_e_auto_reset_event.html#a05a84f2592e1ca074a4f8bbf9e538c05" title="AEAutoResetEvent.Set" alt="" coords="282,56,439,83"/>
+</map>

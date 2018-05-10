@@ -1,0 +1,4 @@
+<map id="AEIContextInterface" name="AEIContextInterface">
+<area shape="rect" id="node2" href="$class_a_e_context_manager.html" title="{AEContextManager\n||+ SetHomeView()\l+ AddViewToContext()\l+ RemovePreviousView()\l+ AddModel()\l+ ModelUpdate()\l}" alt="" coords="5,145,171,281"/>
+<area shape="rect" id="node3" href="$class_a_e_context_menu.html" title="{AEContextMenu\n|+ BackButton\l+ HomeButton\l+ OverviewButton\l|+ AddModel()\l+ ModelUpdate()\l}" alt="" coords="195,153,317,274"/>
+</map>

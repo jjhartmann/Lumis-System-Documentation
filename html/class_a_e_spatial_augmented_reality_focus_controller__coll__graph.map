@@ -1,0 +1,7 @@
+<map id="AESpatialAugmentedRealityFocusController" name="AESpatialAugmentedRealityFocusController">
+<area shape="rect" id="node2" href="$class_a_e_s_a_r_overlay_base.html" title="{AESAROverlayBase\n||+ SetActiveState()\l+ InitializeStart()\l+ SetUtilityAPI()\l}" alt="" coords="169,353,309,459"/>
+<area shape="rect" id="node4" href="$interface_a_e_i_phone_object_network_utility_reciever.html" title="{AEIPhoneObjectNetworkUtility\lReciever\n||+ SetUtilityAPI()\l}" alt="" coords="140,161,339,253"/>
+<area shape="rect" id="node5" href="$class_a_e_phone_object_utility_a_p_i.html" title="{AEPhoneObjectUtilityAPI\n||+ RegisteredDelegateFunctors()\l+ RegisterDelegateCallback()\l+ RemoveDelegateCallback()\l+ SetClientAuthority()\l+ RemoveClientAuthority()\l+ SendFunctorCommand()\l}" alt="" coords="363,132,569,283"/>
+<area shape="rect" id="node6" href="$class_network_behaviour.html" title="{NetworkBehaviour\n||}" alt="" coords="403,5,529,83"/>
+<area shape="rect" id="node7" href="$interface_a_e_i_s_a_r_model_observer.html" title="{AEISARModelObserver\n||+ SARModeStart()\l+ SARModeStop()\l+ ModelUpdate()\l+ AddModel()\l}" alt="" coords="333,345,489,467"/>
+</map>

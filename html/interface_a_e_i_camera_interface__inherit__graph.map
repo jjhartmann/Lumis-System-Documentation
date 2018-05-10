@@ -1,0 +1,3 @@
+<map id="AEICameraInterface" name="AEICameraInterface">
+<area shape="rect" id="node2" href="$class_a_e_camera.html" title="{AECamera\n|+ FriendlyName\l+ CameraID\l+ isServer\l+ TrackAllContent\l+ IsProjector\l+ AmountWorked\l+ CameraType\l|+ AddCameraManager()\l+ EnableVisibilityUpdates()\l+ AddObserver()\l+ RemoveObserver()\l+ GetCamera()\l+ IncrementObjectWork()\l+ GetAmountedWorked()\l+ GetMinimumAmountOfWork()\l+ ResetWorkAmount()\l+ RemoveWorkObject()\l+ ClearAllWorkingObject()\l+ GetObjectVisiblilty()\l+ GetNumberOfCamerasVisible\lToObject()\l+ GetScreenShot()\l+ CaptureAndSaveScreenShot()\l+ GetArrayOfCamerasVisible\lToObject()\l+ GetPrecentofObjectInFrustrum()\l}" alt="" coords="5,233,224,663"/>
+</map>

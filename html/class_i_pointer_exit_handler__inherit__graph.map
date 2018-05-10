@@ -1,0 +1,3 @@
+<map id="IPointerExitHandler" name="IPointerExitHandler">
+<area shape="rect" id="node2" href="$class_photo_image_container_view.html" title="{PhotoImageContainerView\n|+ OnSelectDetected\l+ Index\l|+ ContentView_OnSelect()\l+ SetImage()\l+ SetContentID()\l+ SetSize()\l+ AdjustRelativeSize()\l+ OnBeginDrag()\l+ OnDrag()\l+ OnPointerUp()\l+ OnPointerExit()\l+ IsRaycastLocationValid()\l+ ModelUpdate()\l+ AddModel()\l+ Callback_OnObjectSelection()\l+ Callback_OnObjectRotation()\l+ Callback_OnObjectScale()\l+ Callback_OnObjectTranslation()\l+ Callback_OnObjectPlacement()\l+ Callback_OnViewChange()\l+ Callback_OnLongPress()\l+ Callback_OnSelectRelease()\l}" alt="" coords="5,131,223,501"/>
+</map>

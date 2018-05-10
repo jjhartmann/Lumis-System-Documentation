@@ -1,0 +1,8 @@
+<map id="SelectionRay.GetHitObjects" name="SelectionRay.GetHitObjects">
+<area shape="rect" id="node2" href="$class_a_e_interaction___raycast.html#a869d0a9fca978d116febbd16d0e0481f" title="AEInteraction_Raycast.Callback\l_OnLongPress" alt="" coords="239,5,448,47"/>
+<area shape="rect" id="node3" href="$class_a_e_interaction___raycast.html#afffa293bd63f437f82a34b7a5ef74ffa" title="AEInteraction_Raycast.Callback\l_OnObjectPlacement" alt="" coords="239,71,448,112"/>
+<area shape="rect" id="node4" href="$class_a_e_interaction___raycast.html#a52a07384706fdfb9242022a48173a123" title="AEInteraction_Raycast.Callback\l_OnObjectSelection" alt="" coords="239,136,448,177"/>
+<area shape="rect" id="node5" href="$class_a_e_application___photos.html#aeea694f339e81a4c79f335db87924137" title="AEApplication_Photos.Callback\l_OnLongPress" alt="" coords="240,201,447,243"/>
+<area shape="rect" id="node6" href="$class_a_e_application___photos.html#ad3d53ba18754cbb1647c36a4e3d08d1d" title="AEApplication_Photos.Callback\l_OnObjectPlacement" alt="" coords="240,267,447,308"/>
+<area shape="rect" id="node7" href="$class_a_e_application___photos.html#a10115dbae67afb3f24831bad638bdd2d" title="AEApplication_Photos.Callback\l_OnObjectSelection" alt="" coords="240,332,447,373"/>
+</map>

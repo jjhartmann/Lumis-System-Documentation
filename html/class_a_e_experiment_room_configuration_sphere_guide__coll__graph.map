@@ -1,0 +1,4 @@
+<map id="AEExperimentRoomConfigurationSphereGuide" name="AEExperimentRoomConfigurationSphereGuide">
+<area shape="rect" id="node3" href="$class_a_e_experiment_room_configuration.html" title="{AEExperimentRoomConfiguration\n||}" alt="" coords="205,307,420,384"/>
+<area shape="rect" id="node5" href="$class_a_e_auto_reset_event.html" title="{AEAutoResetEvent\n||+ AEAutoResetEvent()\l+ AEAutoResetEvent()\l+ Set()\l+ WaitOne()\l+ WaitOne()\l+ Check()\l+ Reset()\l}" alt="" coords="320,5,473,171"/>
+</map>
